@@ -1,0 +1,5 @@
+form_url=https://cherga.short.gy/05/2025/g_forma
+bot_token=
+chat_id=
+thread_id=
+poll_interval=5s
